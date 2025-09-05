@@ -1,6 +1,6 @@
 # Iris Dataset Backpropagation
 
-[!img](./img/iris.jpeg)
+![img](./img/iris.jpeg)
 
 Este projeto implementa uma rede neural **feedforward com backpropagation** para classificar o [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris)
 
